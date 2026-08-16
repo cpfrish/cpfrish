@@ -1,4 +1,4 @@
-# Hi, I'm Colin Frishberg 👋
+# Hi, I'm Colin Frishberg 
 
 Data scientist — UC Berkeley **MIDS** (Master of Information and Data Science, Summer 2026).
 I build ML and LLM systems end to end: retrieval-augmented pipelines with rigorous
