@@ -1,6 +1,6 @@
 # Hi, I'm Colin Frishberg 
 
-Data scientist — UC Berkeley **MIDS** (Master of Information and Data Science, Summer 2026).
+AI Product Lead at Google · UC Berkeley **MIDS** (Master of Information and Data Science).
 I build ML and LLM systems end to end: retrieval-augmented pipelines with rigorous
 evaluation, causal inference, and interactive data visualization.
 
